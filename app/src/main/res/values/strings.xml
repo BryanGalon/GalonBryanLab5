@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">GalonBryanLab5</string>
+    <string name="chilltop">chilltop</string>
+    <string name="maps">MAPS</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="distance_from_ust_7_73_km_4_80_mi">Distance From UST: 7.73 km (4.80 mi)</string>
+    <string name="chill_top">CHILL TOP</string>
+    <string name="location_amio_tuazon_266_p_tuazon_blvd_cubao_lungsod_quezon_1109_kalakhang_maynila">Location: Amio Tuazon, 266 P. Tuazon Blvd, Cubao, Lungsod Quezon, 1109 Kalakhang Maynila</string>
+    <string name="early_night">EARLY NIGHT?</string>
+    <string name="location_the_fort_strip_26th_street_bonifacio_global_city_taguig_city">Location: The Fort Strip, 26th Street, Bonifacio Global City, Taguig City</string>
+    <string name="distance_from_ust_9_17_km_5_70_mi">Distance From UST: 9.17 km (5.70 mi)</string>
 </resources>
